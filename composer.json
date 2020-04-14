@@ -1,0 +1,21 @@
+{
+    "name": "ovicko/covid-estimator-api",
+    "description": "Yii 2 based covid-19 estimator API\u001b[D\u001b[D\u001b[DREST API",
+    "type": "project",
+    "authors": [
+        {
+            "name": "AMWOLLO VICTOR",
+            "email": "vamwollo@gmail.com"
+        }
+    ],
+    "require": {
+            "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-debug": "^2.1"
+        },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
